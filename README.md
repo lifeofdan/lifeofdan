@@ -3,7 +3,13 @@
 My name is Daniel Newman. I am a fullstack developer who loves to work on anything and everything related to the web. I am currently a VueJs and Elixir dev in my work hours but I love playing with all kinds of things in my free time. You will see lots of little repos trying all kinds of things here, from Elixir and JavaScript to C# and Rust. 
 
 - 🔭 I’m currently working on on a Discord bot using Elixir, Phoenix and Ash Framework but I'm sure I'll be onto something different by next week. 😄
+- ⚡ Fun fact: I worked as a distance education teacher for 10 years. 👨🏻‍🏫 This has given me a great love for the EdTech space.
 
+
+<br>
+<p dir="auto"><a href="mailto:contact@lifeofdan.me"><img src="https://camo.githubusercontent.com/c2355f5933386fb8264df01a391e97e4319f4b939b0e664b68e51b3bd8269bf8/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6d6573736167653d53656e642532306d65253230616e253230456d61696c266c6f676f3d676d61696c266c6162656c436f6c6f723d33333326636f6c6f723d454134333335266c6162656c3d253230267374796c653d666f722d7468652d6261646765" data-canonical-src="https://img.shields.io/static/v1?message=Send%20me%20an%20Email&amp;logo=gmail&amp;labelColor=333&amp;color=EA4335&amp;label=%20&amp;style=for-the-badge" style="max-width: 100%;"></a>
+<a href="https://www.linkedin.com/in/lifeofdan/" rel="nofollow"><img src="https://camo.githubusercontent.com/2e785f0bbc2b824b676803918744b905d073dd8208f76b260bbaf28c4617c8c0/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6d6573736167653d436f6e6e656374253230776974682532306d652532306f6e2532304c696e6b6564496e266c6f676f3d6c696e6b6564696e266c6162656c436f6c6f723d33333326636f6c6f723d304136364332266c6162656c3d253230267374796c653d666f722d7468652d6261646765266c6f676f436f6c6f723d304136364332" data-canonical-src="https://img.shields.io/static/v1?message=Connect%20with%20me%20on%20LinkedIn&amp;logo=linkedin&amp;labelColor=333&amp;color=0A66C2&amp;label=%20&amp;style=for-the-badge&amp;logoColor=0A66C2" style="max-width: 100%;"></a>
+</p>
 <!--
 **lifeofdan/lifeofdan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
